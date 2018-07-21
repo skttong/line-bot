@@ -3,11 +3,11 @@
 
 $userId = 'U0ccd01887ffcbb7ea66b577190e8f424' ;
 $hospitalName = 'กระทรวงสาธารณสุข' ;
-$origin = 'test' ;
-$queueNumber = '124' ;
-$patientName = '111' ;
-$appointmentDate = '25/07/2018' ;
-$appointmentTime = '11:00' ;
+$origin = 'กระทรวงสาธารณสุข' ;
+$queueNumber = 'จุดคัดกรอง คิวที่ 124' ;
+$patientName = 'นายสมมนัส เกตุผ่อง' ;
+$appointmentDate = '2018-07-25' ;
+$appointmentTime = 'เวลานัดหมาย 09:00-09:15 น. กรุณามาก่อนเวลา 10 นาที' ;
 $detailsLink = '' ;
 $currentQueueLink = '' ;
    
