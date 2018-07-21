@@ -1,15 +1,14 @@
 <?php 
 
-
-$userId = 'U0ccd01887ffcbb7ea66b577190e8f424' ;
-$hospitalName = 'กระทรวงสาธารณสุข' ;
-$origin = 'กระทรวงสาธารณสุข' ;
-$queueNumber = 'จุดคัดกรอง คิวที่ 124' ;
-$patientName = 'นายสมมนัส เกตุผ่อง' ;
-$appointmentDate = '2018-07-25' ;
-$appointmentTime = 'เวลานัดหมาย 09:00-09:15 น. กรุณามาก่อนเวลา 10 นาที' ;
-$detailsLink = '' ;
-$currentQueueLink = '' ;
+$userId = 'U0ccd01887ffcbb7ea66b577190e8f424' ; // lineid
+$hospitalName = 'กระทรวงสาธารณสุข' ; //ชื่อโรงพยาบาล
+$origin = 'กระทรวงสาธารณสุข' ; //สังกัด
+$queueNumber = 'จุดคัดกรอง คิวที่ 124' ; //เลขคิว
+$patientName = 'นายสมมนัส เกตุผ่อง' ; //ชื่อคนไข้
+$appointmentDate = '2018-07-25' ; //วันที่นัด yyyy-mm-dd
+$appointmentTime = 'เวลานัดหมาย 09:00-09:15 น. กรุณามาก่อนเวลา 10 นาที' ; //เวลาที่นัด
+$detailsLink = '' ; //Link สำหรับดูรายละเอียดเพิ่มเติม
+$currentQueueLink = '' ; //Link สำหรับดูคิวปัจจุบัน
    
         $data = array(
             'userId' => $userId,
