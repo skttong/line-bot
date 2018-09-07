@@ -1,6 +1,6 @@
 <?php 
 
-$userId = 'U0ccd01887ffcbb7ea66b577190e8f424' ; // lineid
+$userId = '5b8fa4f93330ff0001447b76' ; // lineid
 $hospitalName = 'กระทรวงสาธารณสุข' ; //ชื่อโรงพยาบาล
 $origin = 'กระทรวงสาธารณสุข' ; //สังกัด
 $queueNumber = 'จุดคัดกรอง คิวที่ 124' ; //เลขคิว
